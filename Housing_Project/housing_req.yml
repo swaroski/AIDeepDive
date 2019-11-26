@@ -25,4 +25,5 @@ dependencies:
     - xgboost
     - lightgbm
     - seaborn
-    - 
+    - os-win
+    - warnings-plugin
