@@ -18,3 +18,11 @@ dependencies:
   - pip:
     - deepreplay
     - intuitiveml
+    - DateTime
+    - scipy
+    - sklearn
+    - mlxtend
+    - xgboost
+    - lightgbm
+    - seaborn
+    - 
